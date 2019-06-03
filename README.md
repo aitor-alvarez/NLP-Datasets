@@ -1,5 +1,5 @@
 # NLP-Datasets
-Collection of NLP datasets by task
+Curated collection of NLP datasets by task
 
 ## Text summarization
 
